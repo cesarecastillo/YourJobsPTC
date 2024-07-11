@@ -1,0 +1,628 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|c:\\users\\123456\\desktop\\yourjob versiones\\yourjob1 (5)\\yourjob1 (4)\\yourjob1\\yourjob1\\thankyou_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\thankyou_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\thankyou.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\thankyou.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\16.contactus_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\16.contactus_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\16.contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\16.contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\15.aboutus_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\15.aboutus_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\15.aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\15.aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\14.logout_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\14.logout_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\14.logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\14.logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\11.admin.form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\11.admin.form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\10.myprofile.form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\10.myprofile.form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\10.myprofile.form_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\10.myprofile.form_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\08.resume.form_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\08.resume.form_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\09.job.information.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\09.job.information.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\08.resume.form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\08.resume.form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\08.resume.form_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\08.resume.form_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\08.resume.form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\08.resume.form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\07.index.profile_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\07.index.profile_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\07.index.profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\07.index.profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\07.index.profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\07.index.profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\01.index_dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\01.index_dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\07.index.profile_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\07.index.profile_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\01.index_dashboard_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\01.index_dashboard_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\01.index_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\01.index_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\06.forget.password_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\06.forget.password_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\06.forget.password_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\06.forget.password_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\06.forget.password.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\06.forget.password.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\06.forget.password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\06.forget.password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\05.company.register_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\05.company.register_esp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\05.company.register_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\05.company.register_esp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\05.company.register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\05.company.register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\05.company.register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\05.company.register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\04.user.register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\04.user.register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\02.user.login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\02.user.login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\16.contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\16.contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\02.company.login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\02.company.login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\11.admin.form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\11.admin.form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\yourjob1\\10.myprofile.form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}|YourJob1\\YourJob1.csproj|solutionrelative:yourjob1\\10.myprofile.form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 130,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "01.index_dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\01.index_dashboard.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\01.index_dashboard.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\01.index_dashboard.aspx",
+              "RelativeToolTip": "YourJob1\\01.index_dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T04:24:14.096Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "02.company.login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\02.company.login.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\02.company.login.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\02.company.login.aspx.cs",
+              "RelativeToolTip": "YourJob1\\02.company.login.aspx.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwHAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:14:13.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "02.user.login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\02.user.login.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\02.user.login.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\02.user.login.aspx.cs",
+              "RelativeToolTip": "YourJob1\\02.user.login.aspx.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwJ4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:57:44.735Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "04.user.register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\04.user.register.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\04.user.register.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\04.user.register.aspx.cs",
+              "RelativeToolTip": "YourJob1\\04.user.register.aspx.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAA0wNIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:14:40.516Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "05.company.register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\05.company.register.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register.aspx.cs",
+              "RelativeToolTip": "YourJob1\\05.company.register.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:14:44.541Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "06.forget.password.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\06.forget.password.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password.aspx.cs",
+              "RelativeToolTip": "YourJob1\\06.forget.password.aspx.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwIMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:14:52.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "07.index.profile.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\07.index.profile.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile.aspx",
+              "RelativeToolTip": "YourJob1\\07.index.profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T03:57:04.757Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "07.index.profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\07.index.profile.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile.aspx.cs",
+              "RelativeToolTip": "YourJob1\\07.index.profile.aspx.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAEwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:57:27.494Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "08.resume.form.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\08.resume.form.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form.aspx.cs",
+              "RelativeToolTip": "YourJob1\\08.resume.form.aspx.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAuwNEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:14:56.596Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "10.myprofile.form.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\10.myprofile.form.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\10.myprofile.form.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\10.myprofile.form.aspx",
+              "RelativeToolTip": "YourJob1\\10.myprofile.form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T03:34:43.371Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "10.myprofile.form.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\10.myprofile.form.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\10.myprofile.form.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\10.myprofile.form.aspx.cs",
+              "RelativeToolTip": "YourJob1\\10.myprofile.form.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:38:52.817Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "11.admin.form.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\11.admin.form.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\11.admin.form.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\11.admin.form.aspx.cs",
+              "RelativeToolTip": "YourJob1\\11.admin.form.aspx.cs",
+              "ViewState": "AQIAAJUBAAAAAAAAAAAWwK0BAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:15:09.249Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "15.AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\15.AboutUs.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\15.AboutUs.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\15.AboutUs.aspx",
+              "RelativeToolTip": "YourJob1\\15.AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T05:08:43.578Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "16.ContactUs.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\16.ContactUs.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\16.ContactUs.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\16.ContactUs.aspx",
+              "RelativeToolTip": "YourJob1\\16.ContactUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T05:30:34.071Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "16.ContactUs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\16.ContactUs.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\16.ContactUs.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\16.ContactUs.aspx.cs",
+              "RelativeToolTip": "YourJob1\\16.ContactUs.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:32:46.985Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thankyou_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\thankyou_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\thankyou_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\thankyou_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\thankyou_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:16:33.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thankyou.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\thankyou.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\thankyou.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\thankyou.aspx",
+              "RelativeToolTip": "YourJob1\\thankyou.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:15:19.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "16.ContactUs_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\16.ContactUs_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\16.ContactUs_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\16.ContactUs_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\16.ContactUs_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:14:11.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "15.AboutUs_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\15.AboutUs_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\15.AboutUs_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\15.AboutUs_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\15.AboutUs_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:11:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "14.logout_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\14.logout_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\14.logout_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\14.logout_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\14.logout_ESP.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:09:45.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "14.logout.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\14.logout.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\14.logout.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\14.logout.aspx",
+              "RelativeToolTip": "YourJob1\\14.logout.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:08:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "11.admin.form.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\11.admin.form.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\11.admin.form.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\11.admin.form.aspx",
+              "RelativeToolTip": "YourJob1\\11.admin.form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:08:24.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "10.myprofile.form_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\10.myprofile.form_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\10.myprofile.form_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\10.myprofile.form_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\10.myprofile.form_ESP.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:04:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "09.job.information.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\09.job.information.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\09.job.information.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\09.job.information.aspx",
+              "RelativeToolTip": "YourJob1\\09.job.information.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T09:02:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "08.resume.form_ESP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form_ESP.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\08.resume.form_ESP.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form_ESP.aspx.cs",
+              "RelativeToolTip": "YourJob1\\08.resume.form_ESP.aspx.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAuwNIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:00:12.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "08.resume.form_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\08.resume.form_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\08.resume.form_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:58:38.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "01.index_dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\01.index_dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\01.index_dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\01.index_dashboard.aspx.cs",
+              "RelativeToolTip": "YourJob1\\01.index_dashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:51:20.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "07.index.profile_ESP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile_ESP.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\07.index.profile_ESP.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile_ESP.aspx.cs",
+              "RelativeToolTip": "YourJob1\\07.index.profile_ESP.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:50:56.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "08.resume.form.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\08.resume.form.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\08.resume.form.aspx",
+              "RelativeToolTip": "YourJob1\\08.resume.form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:49:55.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "01.index_dashboard_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\01.index_dashboard_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\01.index_dashboard_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\01.index_dashboard_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\01.index_dashboard_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:47:22.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "07.index.profile_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\07.index.profile_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\07.index.profile_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\07.index.profile_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:38:39.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "06.forget.password_ESP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password_ESP.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\06.forget.password_ESP.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password_ESP.aspx.cs",
+              "RelativeToolTip": "YourJob1\\06.forget.password_ESP.aspx.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAqwIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:36:43.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "06.forget.password_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\06.forget.password_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\06.forget.password_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:35:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "06.forget.password.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\06.forget.password.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\06.forget.password.aspx",
+              "RelativeToolTip": "YourJob1\\06.forget.password.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:28:50.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "05.company.register_ESP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register_ESP.aspx.cs",
+              "RelativeDocumentMoniker": "YourJob1\\05.company.register_ESP.aspx.cs",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register_ESP.aspx.cs",
+              "RelativeToolTip": "YourJob1\\05.company.register_ESP.aspx.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAALwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:15:24.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "05.company.register_ESP.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register_ESP.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\05.company.register_ESP.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register_ESP.aspx",
+              "RelativeToolTip": "YourJob1\\05.company.register_ESP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:10:47.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "05.company.register.aspx",
+              "DocumentMoniker": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register.aspx",
+              "RelativeDocumentMoniker": "YourJob1\\05.company.register.aspx",
+              "ToolTip": "C:\\Users\\123456\\Desktop\\YOURJOB VERSIONES\\YourJob1 (5)\\YourJob1 (4)\\YourJob1\\YourJob1\\05.company.register.aspx",
+              "RelativeToolTip": "YourJob1\\05.company.register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T08:09:06.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
