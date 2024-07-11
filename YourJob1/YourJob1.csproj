@@ -1,0 +1,637 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ECA0255B-A49A-4D09-A6B2-3031FB5A2826}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YourJob1</RootNamespace>
+    <AssemblyName>YourJob1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44373</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\Downloads\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="01.index_dashboard.aspx" />
+    <Content Include="02.company.login.aspx" />
+    <Content Include="02.user.login.aspx" />
+    <Content Include="04.user.register.aspx" />
+    <Content Include="05.company.register.aspx" />
+    <Content Include="06.forget.password.aspx" />
+    <Content Include="07.index.profile.aspx" />
+    <Content Include="08.resume.form.aspx" />
+    <Content Include="09.job.information.aspx" />
+    <Content Include="11.admin.form.aspx" />
+    <Content Include="12.paneladmin.aspx" />
+    <Content Include="14.logout.aspx" />
+    <Content Include="15.AboutUs.aspx.cs.aspx" />
+    <Content Include="16.ContactUs.aspx" />
+    <Content Include="assets\css\animate.css" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\fontawsom-all.min.css" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\images\bg_2.jpg" />
+    <Content Include="assets\images\bloogs-6.jpg" />
+    <Content Include="assets\images\gallery\gallery_12.jpg" />
+    <Content Include="assets\images\gallery\gallery_01.jpg" />
+    <Content Include="assets\images\gallery\gallery_02.jpg" />
+    <Content Include="assets\images\gallery\gallery_03.jpg" />
+    <Content Include="assets\images\gallery\gallery_04.jpg" />
+    <Content Include="assets\images\gallery\gallery_05.jpg" />
+    <Content Include="assets\images\gallery\gallery_06.jpg" />
+    <Content Include="assets\images\gallery\gallery_08.jpg" />
+    <Content Include="assets\images\gallery\gallery_09.jpg" />
+    <Content Include="assets\images\gallery\gallery_10.jpg" />
+    <Content Include="assets\images\gallery\gallery_11.jpg" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\jquery-3.2.1.min.js" />
+    <Content Include="assets\js\popper.js" />
+    <Content Include="assets\js\popper.min.js" />
+    <Content Include="assets\js\script.js" />
+    <Content Include="assets\plugins\scroll-fixed\jquery-scrolltofixed-min.js" />
+    <Content Include="assets\webfonts\fa-brands-400.svg" />
+    <Content Include="assets\webfonts\fa-regular-400.svg" />
+    <Content Include="assets\webfonts\fa-solid-900.svg" />
+    <Content Include="assets\webfonts\Simple-Line-Icons.svg" />
+    <Content Include="assets\webfonts\Simple-Line-Iconsb26c.svg" />
+    <Content Include="assets\webfonts\themify.svg" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\animate.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\bootstrap\bootstrap-grid.css" />
+    <Content Include="css\bootstrap\bootstrap-reboot.css" />
+    <Content Include="css\bootstrap\bootstrap.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\fontawsom-all.min.css" />
+    <Content Include="css\jquery.DonutWidget.min.css" />
+    <Content Include="css\jquerysctipttop.css" />
+    <Content Include="css\linearicons.css" />
+    <Content Include="css\magnific-popup.css" />
+    <Content Include="css\main.css" />
+    <Content Include="css\nice-select.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\style1.css" />
+    <Content Include="css\style2.css" />
+    <Content Include="css\theme\pages.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\Linearicons-Free.svg" />
+    <Content Include="fonts\material-design-iconic-font\css\material-design-iconic-font.css" />
+    <Content Include="fonts\material-design-iconic-font\css\material-design-iconic-font.min.css" />
+    <Content Include="fonts\material-design-iconic-font\fonts\Material-Design-Iconic-Font.svg" />
+    <Content Include="img\b1.jpg" />
+    <Content Include="img\b2.jpg" />
+    <Content Include="img\bg-registration-form-1.jpg" />
+    <Content Include="img\bg-registration-form-2.jpg" />
+    <Content Include="img\bg-registration-form-4.jpg" />
+    <Content Include="img\bg-registration-form-5.jpg" />
+    <Content Include="img\bg-registration-form-6.jpg" />
+    <Content Include="img\bg-registration-form-7.jpg" />
+    <Content Include="img\bg_2.jpg" />
+    <Content Include="img\blog.jpg" />
+    <Content Include="img\blog1.jpg" />
+    <Content Include="img\blog2.jpg" />
+    <Content Include="img\blog\blog-banner.jpg" />
+    <Content Include="img\blog\c1.jpg" />
+    <Content Include="img\blog\c2.jpg" />
+    <Content Include="img\blog\c3.jpg" />
+    <Content Include="img\blog\c4.jpg" />
+    <Content Include="img\blog\c5.jpg" />
+    <Content Include="img\blog\l1.jpg" />
+    <Content Include="img\blog\l2.jpg" />
+    <Content Include="img\blog\l3.jpg" />
+    <Content Include="img\blog\l4.jpg" />
+    <Content Include="img\blog\next.jpg" />
+    <Content Include="img\blog\p1.jpg" />
+    <Content Include="img\blog\p2.jpg" />
+    <Content Include="img\blog\p3.jpg" />
+    <Content Include="img\blog\p4.jpg" />
+    <Content Include="img\blog\prev.jpg" />
+    <Content Include="img\blog\r1.jpg" />
+    <Content Include="img\blog\r2.jpg" />
+    <Content Include="img\blog\r3.jpg" />
+    <Content Include="img\blog\r4.jpg" />
+    <Content Include="img\blog\s-img.jpg" />
+    <Content Include="img\blog\slider.jpg" />
+    <Content Include="img\blog\user.jpg" />
+    <Content Include="img\blog\user2.jpg" />
+    <Content Include="img\bloogs-6.jpg" />
+    <Content Include="img\d1.png" />
+    <Content Include="img\elements\a.jpg" />
+    <Content Include="img\elements\a2.jpg" />
+    <Content Include="img\elements\d.jpg" />
+    <Content Include="img\elements\disabled-check.png" />
+    <Content Include="img\elements\disabled-radio.png" />
+    <Content Include="img\elements\f1.jpg" />
+    <Content Include="img\elements\f2.jpg" />
+    <Content Include="img\elements\f3.jpg" />
+    <Content Include="img\elements\f4.jpg" />
+    <Content Include="img\elements\f5.jpg" />
+    <Content Include="img\elements\f6.jpg" />
+    <Content Include="img\elements\f7.jpg" />
+    <Content Include="img\elements\f8.jpg" />
+    <Content Include="img\elements\g1.jpg" />
+    <Content Include="img\elements\g2.jpg" />
+    <Content Include="img\elements\g3.jpg" />
+    <Content Include="img\elements\g4.jpg" />
+    <Content Include="img\elements\g5.jpg" />
+    <Content Include="img\elements\g6.jpg" />
+    <Content Include="img\elements\g7.jpg" />
+    <Content Include="img\elements\g8.jpg" />
+    <Content Include="img\elements\primary-check.png" />
+    <Content Include="img\elements\primary-radio.png" />
+    <Content Include="img\elements\success-check.png" />
+    <Content Include="img\elements\success-radio.png" />
+    <Content Include="img\gallery_01.jpg" />
+    <Content Include="img\gallery_02.jpg" />
+    <Content Include="img\gallery_03.jpg" />
+    <Content Include="img\gallery_04.jpg" />
+    <Content Include="img\gallery_05.jpg" />
+    <Content Include="img\gallery_06.jpg" />
+    <Content Include="img\gallery_08.jpg" />
+    <Content Include="img\gallery_09.jpg" />
+    <Content Include="img\gallery_10.jpg" />
+    <Content Include="img\gallery_11.jpg" />
+    <Content Include="img\gallery_12.jpg" />
+    <Content Include="img\header-bg.jpg" />
+    <Content Include="img\i1.jpg" />
+    <Content Include="img\i2.jpg" />
+    <Content Include="img\i3.jpg" />
+    <Content Include="img\i4.jpg" />
+    <Content Include="img\i5.jpg" />
+    <Content Include="img\i6.jpg" />
+    <Content Include="img\i7.jpg" />
+    <Content Include="img\i8.jpg" />
+    <Content Include="img\imgo3.png" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\o1.png" />
+    <Content Include="img\o2.png" />
+    <Content Include="img\o3.png" />
+    <Content Include="img\o4.png" />
+    <Content Include="img\o5.png" />
+    <Content Include="img\o6.png" />
+    <Content Include="img\office-building.png" />
+    <Content Include="img\p.png" />
+    <Content Include="img\p1.png" />
+    <Content Include="img\p2.png" />
+    <Content Include="img\p3.png" />
+    <Content Include="img\p4.png" />
+    <Content Include="img\p5.png" />
+    <Content Include="img\p6.png" />
+    <Content Include="img\pages\f1.jpg" />
+    <Content Include="img\pages\f2.jpg" />
+    <Content Include="img\pages\list.jpg" />
+    <Content Include="img\pages\t1.jpg" />
+    <Content Include="img\pages\t2.jpg" />
+    <Content Include="img\pages\t3.jpg" />
+    <Content Include="img\pages\t4.jpg" />
+    <Content Include="img\plant.png" />
+    <Content Include="img\play-btn.png" />
+    <Content Include="img\post.png" />
+    <Content Include="img\r1.jpg" />
+    <Content Include="img\r1.png" />
+    <Content Include="img\r2.png" />
+    <Content Include="img\registration-form-1.jpg" />
+    <Content Include="img\registration-form-2.png" />
+    <Content Include="img\registration-form-3.png" />
+    <Content Include="img\registration-form-4.png" />
+    <Content Include="img\registration-form-5.png" />
+    <Content Include="img\registration-form-6.png" />
+    <Content Include="img\registration-form-7.png" />
+    <Content Include="img\registration-form-8.png" />
+    <Content Include="img\servicios.png" />
+    <Content Include="img\t1.png" />
+    <Content Include="img\t2.png" />
+    <Content Include="img\t3.png" />
+    <Content Include="img\user.jpg" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\easing.min.js" />
+    <Content Include="js\hoverIntent.js" />
+    <Content Include="js\jquery-3.2.1.min.js" />
+    <Content Include="js\jquery.ajaxchimp.min.js" />
+    <Content Include="js\jquery.magnific-popup.min.js" />
+    <Content Include="js\jquery.nice-select.min.js" />
+    <Content Include="js\jquery.sticky.js" />
+    <Content Include="js\mail-script.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\parallax.min.js" />
+    <Content Include="js\popper.js" />
+    <Content Include="js\popper.min.js" />
+    <Content Include="js\script.js" />
+    <Content Include="js\slick.js" />
+    <Content Include="js\superfish.js" />
+    <Content Include="js\superfish.min.js" />
+    <Content Include="js\vendor\bootstrap.min.js" />
+    <Content Include="js\vendor\jquery-2.2.4.min.js" />
+    <Content Include="10.myprofile.form.aspx" />
+    <Content Include="plugins\scroll-fixed\jquery-scrolltofixed-min.js" />
+    <Content Include="SweetAlert\sweetalert2.all.min.js" />
+    <Content Include="SweetAlert\sweetalert2.js" />
+    <Content Include="SweetAlert\sweetalert3.all.min.js" />
+    <Content Include="SweetAlert\sweetalert3.js" />
+    <Content Include="Web.config" />
+    <Content Include="webfonts\fa-brands-400.svg" />
+    <Content Include="webfonts\fa-regular-400.svg" />
+    <Content Include="webfonts\fa-solid-900.svg" />
+    <Content Include="webfonts\Simple-Line-Icons.svg" />
+    <Content Include="webfonts\Simple-Line-Iconsb26c.svg" />
+    <Content Include="webfonts\themify.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01.index_dashboard.aspx.cs">
+      <DependentUpon>01.index_dashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="01.index_dashboard.aspx.designer.cs">
+      <DependentUpon>01.index_dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="02.company.login.aspx.cs">
+      <DependentUpon>02.company.login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="02.company.login.aspx.designer.cs">
+      <DependentUpon>02.company.login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="02.user.login.aspx.cs">
+      <DependentUpon>02.user.login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="02.user.login.aspx.designer.cs">
+      <DependentUpon>02.user.login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="04.user.register.aspx.cs">
+      <DependentUpon>04.user.register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="04.user.register.aspx.designer.cs">
+      <DependentUpon>04.user.register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="05.company.register.aspx.cs">
+      <DependentUpon>05.company.register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="05.company.register.aspx.designer.cs">
+      <DependentUpon>05.company.register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="06.forget.password.aspx.cs">
+      <DependentUpon>06.forget.password.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="06.forget.password.aspx.designer.cs">
+      <DependentUpon>06.forget.password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="07.index.profile.aspx.cs">
+      <DependentUpon>07.index.profile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="07.index.profile.aspx.designer.cs">
+      <DependentUpon>07.index.profile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="08.resume.form.aspx.cs">
+      <DependentUpon>08.resume.form.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="08.resume.form.aspx.designer.cs">
+      <DependentUpon>08.resume.form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="09.job.information.aspx.cs">
+      <DependentUpon>09.job.information.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="09.job.information.aspx.designer.cs">
+      <DependentUpon>09.job.information.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="11.admin.form.aspx.cs">
+      <DependentUpon>11.admin.form.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="11.admin.form.aspx.designer.cs">
+      <DependentUpon>11.admin.form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="12.paneladmin.aspx.cs">
+      <DependentUpon>12.paneladmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="12.paneladmin.aspx.designer.cs">
+      <DependentUpon>12.paneladmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="14.logout.aspx.cs">
+      <DependentUpon>14.logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="14.logout.aspx.designer.cs">
+      <DependentUpon>14.logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="15.AboutUs.aspx.cs.aspx.cs">
+      <DependentUpon>15.AboutUs.aspx.cs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="15.AboutUs.aspx.cs.aspx.designer.cs">
+      <DependentUpon>15.AboutUs.aspx.cs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="16.ContactUs.aspx.cs">
+      <DependentUpon>16.ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="16.ContactUs.aspx.designer.cs">
+      <DependentUpon>16.ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="conexiones.cs" />
+    <Compile Include="datos1.cs" />
+    <Compile Include="metodos.cs" />
+    <Compile Include="10.myprofile.form.aspx.cs">
+      <DependentUpon>10.myprofile.form.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="10.myprofile.form.aspx.designer.cs">
+      <DependentUpon>10.myprofile.form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsuarioCurriculum.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\bootstrap.map" />
+    <Content Include="css\main.map" />
+    <Content Include="css\style1.css.map" />
+    <Content Include="css\style1.scss" />
+    <Content Include="css\style2.css.map" />
+    <Content Include="css\style2.scss" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\Linearicons-Free.eot" />
+    <Content Include="fonts\Linearicons-Free.ttf" />
+    <Content Include="fonts\Linearicons-Free.woff" />
+    <Content Include="fonts\Linearicons-Free.woff2" />
+    <Content Include="fonts\material-design-iconic-font\fonts\Material-Design-Iconic-Font.eot" />
+    <Content Include="fonts\material-design-iconic-font\fonts\Material-Design-Iconic-Font.ttf" />
+    <Content Include="fonts\material-design-iconic-font\fonts\Material-Design-Iconic-Font.woff" />
+    <Content Include="fonts\material-design-iconic-font\fonts\Material-Design-Iconic-Font.woff2" />
+    <Content Include="fonts\poppins\Poppins-Regular.ttf" />
+    <Content Include="fonts\poppins\Poppins-SemiBold.ttf" />
+    <Content Include="img\blog\.DS_Store" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="css\style.css.map" />
+    <Content Include="fonts\PT_Sans-Web-Bold.ttf" />
+    <Content Include="fonts\PT_Sans-Web-Regular.ttf" />
+    <Content Include="fonts\RobotoSlab-Bold.ttf" />
+    <Content Include="fonts\RobotoSlab-Regular.ttf" />
+    <Content Include="js\bootstrap.min.js.map" />
+    <Content Include="js\popper.min.js.map" />
+    <Content Include="assets\css\bootstrap.min.css.map" />
+    <Content Include="assets\css\style.css.map" />
+    <Content Include="assets\fonts\PT_Sans-Web-Bold.ttf" />
+    <Content Include="assets\fonts\PT_Sans-Web-Regular.ttf" />
+    <Content Include="assets\fonts\RobotoSlab-Bold.ttf" />
+    <Content Include="assets\fonts\RobotoSlab-Regular.ttf" />
+    <Content Include="assets\js\bootstrap.min.js.map" />
+    <Content Include="assets\js\popper.min.js.map" />
+    <Content Include="assets\webfonts\fa-brands-400.eot" />
+    <Content Include="assets\webfonts\fa-brands-400.ttf" />
+    <Content Include="assets\webfonts\fa-brands-400.woff" />
+    <Content Include="assets\webfonts\fa-brands-400.woff2" />
+    <Content Include="assets\webfonts\fa-regular-400.eot" />
+    <Content Include="assets\webfonts\fa-regular-400.ttf" />
+    <Content Include="assets\webfonts\fa-regular-400.woff" />
+    <Content Include="assets\webfonts\fa-regular-400.woff2" />
+    <Content Include="assets\webfonts\fa-solid-900.eot" />
+    <Content Include="assets\webfonts\fa-solid-900.ttf" />
+    <Content Include="assets\webfonts\fa-solid-900.woff" />
+    <Content Include="assets\webfonts\fa-solid-900.woff2" />
+    <Content Include="assets\webfonts\Simple-Line-Icons.eot" />
+    <Content Include="assets\webfonts\Simple-Line-Icons.ttf" />
+    <Content Include="assets\webfonts\Simple-Line-Icons.woff" />
+    <Content Include="assets\webfonts\Simple-Line-Icons.woff2" />
+    <Content Include="assets\webfonts\Simple-Line-Iconsb26c.eot" />
+    <Content Include="assets\webfonts\Simple-Line-Iconsb26c.ttf" />
+    <Content Include="assets\webfonts\Simple-Line-Iconsb26c.woff" />
+    <Content Include="assets\webfonts\Simple-Line-Iconsb26c.woff2" />
+    <Content Include="assets\webfonts\themify.eot" />
+    <Content Include="assets\webfonts\themify.ttf" />
+    <Content Include="assets\webfonts\themify.woff" />
+    <None Include="packages.config" />
+    <Content Include="scss\bootstrap.scss" />
+    <Content Include="scss\bootstrap\bootstrap-grid.scss" />
+    <Content Include="scss\bootstrap\bootstrap-reboot.scss" />
+    <Content Include="scss\bootstrap\bootstrap.scss" />
+    <Content Include="scss\bootstrap\mixins\_alert.scss" />
+    <Content Include="scss\bootstrap\mixins\_background-variant.scss" />
+    <Content Include="scss\bootstrap\mixins\_badge.scss" />
+    <Content Include="scss\bootstrap\mixins\_border-radius.scss" />
+    <Content Include="scss\bootstrap\mixins\_box-shadow.scss" />
+    <Content Include="scss\bootstrap\mixins\_breakpoints.scss" />
+    <Content Include="scss\bootstrap\mixins\_buttons.scss" />
+    <Content Include="scss\bootstrap\mixins\_caret.scss" />
+    <Content Include="scss\bootstrap\mixins\_clearfix.scss" />
+    <Content Include="scss\bootstrap\mixins\_float.scss" />
+    <Content Include="scss\bootstrap\mixins\_forms.scss" />
+    <Content Include="scss\bootstrap\mixins\_gradients.scss" />
+    <Content Include="scss\bootstrap\mixins\_grid-framework.scss" />
+    <Content Include="scss\bootstrap\mixins\_grid.scss" />
+    <Content Include="scss\bootstrap\mixins\_hover.scss" />
+    <Content Include="scss\bootstrap\mixins\_image.scss" />
+    <Content Include="scss\bootstrap\mixins\_list-group.scss" />
+    <Content Include="scss\bootstrap\mixins\_lists.scss" />
+    <Content Include="scss\bootstrap\mixins\_nav-divider.scss" />
+    <Content Include="scss\bootstrap\mixins\_navbar-align.scss" />
+    <Content Include="scss\bootstrap\mixins\_pagination.scss" />
+    <Content Include="scss\bootstrap\mixins\_reset-text.scss" />
+    <Content Include="scss\bootstrap\mixins\_resize.scss" />
+    <Content Include="scss\bootstrap\mixins\_screen-reader.scss" />
+    <Content Include="scss\bootstrap\mixins\_size.scss" />
+    <Content Include="scss\bootstrap\mixins\_table-row.scss" />
+    <Content Include="scss\bootstrap\mixins\_text-emphasis.scss" />
+    <Content Include="scss\bootstrap\mixins\_text-hide.scss" />
+    <Content Include="scss\bootstrap\mixins\_text-truncate.scss" />
+    <Content Include="scss\bootstrap\mixins\_transition.scss" />
+    <Content Include="scss\bootstrap\mixins\_visibility.scss" />
+    <Content Include="scss\bootstrap\utilities\_align.scss" />
+    <Content Include="scss\bootstrap\utilities\_background.scss" />
+    <Content Include="scss\bootstrap\utilities\_borders.scss" />
+    <Content Include="scss\bootstrap\utilities\_clearfix.scss" />
+    <Content Include="scss\bootstrap\utilities\_display.scss" />
+    <Content Include="scss\bootstrap\utilities\_embed.scss" />
+    <Content Include="scss\bootstrap\utilities\_flex.scss" />
+    <Content Include="scss\bootstrap\utilities\_float.scss" />
+    <Content Include="scss\bootstrap\utilities\_position.scss" />
+    <Content Include="scss\bootstrap\utilities\_screenreaders.scss" />
+    <Content Include="scss\bootstrap\utilities\_sizing.scss" />
+    <Content Include="scss\bootstrap\utilities\_spacing.scss" />
+    <Content Include="scss\bootstrap\utilities\_text.scss" />
+    <Content Include="scss\bootstrap\utilities\_visibility.scss" />
+    <Content Include="scss\bootstrap\_alert.scss" />
+    <Content Include="scss\bootstrap\_badge.scss" />
+    <Content Include="scss\bootstrap\_breadcrumb.scss" />
+    <Content Include="scss\bootstrap\_button-group.scss" />
+    <Content Include="scss\bootstrap\_buttons.scss" />
+    <Content Include="scss\bootstrap\_card.scss" />
+    <Content Include="scss\bootstrap\_carousel.scss" />
+    <Content Include="scss\bootstrap\_close.scss" />
+    <Content Include="scss\bootstrap\_code.scss" />
+    <Content Include="scss\bootstrap\_custom-forms.scss" />
+    <Content Include="scss\bootstrap\_dropdown.scss" />
+    <Content Include="scss\bootstrap\_forms.scss" />
+    <Content Include="scss\bootstrap\_functions.scss" />
+    <Content Include="scss\bootstrap\_grid.scss" />
+    <Content Include="scss\bootstrap\_images.scss" />
+    <Content Include="scss\bootstrap\_input-group.scss" />
+    <Content Include="scss\bootstrap\_jumbotron.scss" />
+    <Content Include="scss\bootstrap\_list-group.scss" />
+    <Content Include="scss\bootstrap\_media.scss" />
+    <Content Include="scss\bootstrap\_mixins.scss" />
+    <Content Include="scss\bootstrap\_modal.scss" />
+    <Content Include="scss\bootstrap\_nav.scss" />
+    <Content Include="scss\bootstrap\_navbar.scss" />
+    <Content Include="scss\bootstrap\_pagination.scss" />
+    <Content Include="scss\bootstrap\_popover.scss" />
+    <Content Include="scss\bootstrap\_print.scss" />
+    <Content Include="scss\bootstrap\_progress.scss" />
+    <Content Include="scss\bootstrap\_reboot.scss" />
+    <Content Include="scss\bootstrap\_root.scss" />
+    <Content Include="scss\bootstrap\_tables.scss" />
+    <Content Include="scss\bootstrap\_tooltip.scss" />
+    <Content Include="scss\bootstrap\_transitions.scss" />
+    <Content Include="scss\bootstrap\_type.scss" />
+    <Content Include="scss\bootstrap\_utilities.scss" />
+    <Content Include="scss\bootstrap\_variables.scss" />
+    <Content Include="scss\main.scss" />
+    <Content Include="scss\theme\_elements.scss" />
+    <Content Include="scss\theme\_flexbox.scss" />
+    <Content Include="scss\theme\_footer.scss" />
+    <Content Include="scss\theme\_header.scss" />
+    <Content Include="scss\theme\_home.scss" />
+    <Content Include="scss\theme\_mixins.scss" />
+    <Content Include="scss\theme\_pages.scss" />
+    <Content Include="scss\theme\_reset.scss" />
+    <Content Include="scss\theme\_variables.scss" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="webfonts\fa-brands-400.eot" />
+    <Content Include="webfonts\fa-brands-400.ttf" />
+    <Content Include="webfonts\fa-brands-400.woff" />
+    <Content Include="webfonts\fa-brands-400.woff2" />
+    <Content Include="webfonts\fa-regular-400.eot" />
+    <Content Include="webfonts\fa-regular-400.ttf" />
+    <Content Include="webfonts\fa-regular-400.woff" />
+    <Content Include="webfonts\fa-regular-400.woff2" />
+    <Content Include="webfonts\fa-solid-900.eot" />
+    <Content Include="webfonts\fa-solid-900.ttf" />
+    <Content Include="webfonts\fa-solid-900.woff" />
+    <Content Include="webfonts\fa-solid-900.woff2" />
+    <Content Include="webfonts\Simple-Line-Icons.eot" />
+    <Content Include="webfonts\Simple-Line-Icons.ttf" />
+    <Content Include="webfonts\Simple-Line-Icons.woff" />
+    <Content Include="webfonts\Simple-Line-Icons.woff2" />
+    <Content Include="webfonts\Simple-Line-Iconsb26c.eot" />
+    <Content Include="webfonts\Simple-Line-Iconsb26c.ttf" />
+    <Content Include="webfonts\Simple-Line-Iconsb26c.woff" />
+    <Content Include="webfonts\Simple-Line-Iconsb26c.woff2" />
+    <Content Include="webfonts\themify.eot" />
+    <Content Include="webfonts\themify.ttf" />
+    <Content Include="webfonts\themify.woff" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50280</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44373/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
